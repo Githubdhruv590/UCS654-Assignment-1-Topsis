@@ -10,7 +10,7 @@ multi-criteria decision-making (MCDM) method used to rank alternatives by select
 option that is closest to the ideal solution and farthest from the worst (negative ideal)
 solution.
 
-### Use this package as a [WebApp](https://github.com/Githubdhruv590/UCS654-Assignment-1-Topsis) here.
+### Use this package as a [WebApp](https://785.pythonanywhere.com/) here.
 
 <br>
 
