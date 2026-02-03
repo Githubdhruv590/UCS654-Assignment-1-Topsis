@@ -70,10 +70,12 @@ Impacts: `+,+,-,+,+`
 
 ---
 <tr>
+</table>
+<table>
 <th>TOPSIS Output</th>
 </tr>
-### TOPSIS Output (`result.csv`)
-
+<tr> 
+<td>
 | Fund Name | P1 | P2 | P3 | P4 | P5 | Topsis Score | Rank |
 |----------|----|----|----|----|----|--------------|------|
 | M1 | 0.72 | 0.54 | 4.1 | 43.2 | 12.05 | 0.3834 | 7 |
