@@ -40,7 +40,13 @@ Output file path to save the results
 <br>
 
 ## 🪴**Example**
-<table> <tr> <th>Input Dataset</th> <th>TOPSIS Output</th> </tr> <tr> <td>
+<table> 
+<tr> 
+<th>Input Dataset</th> 
+<th>TOPSIS Output</th> 
+</tr> 
+<tr> 
+<td>
 
 ### Input Dataset (`data.csv`)
 
@@ -55,8 +61,12 @@ Output file path to save the results
 | M7 | 0.86 | 0.74 | 6.5 | 52.3 | 14.70 |
 | M8 | 0.92 | 0.85 | 5.7 | 66.2 | 18.30 |
 
+</td>
+
 Weights: `1,1,1,1,1`  
 Impacts: `+,+,-,+,+`
+
+</td>
 
 ---
 
@@ -74,6 +84,11 @@ Impacts: `+,+,-,+,+`
 | M8 | 0.92 | 0.85 | 5.7 | 66.2 | 18.30 | 0.7073 | 1 |
 
 ---
+</td>
+</tr>
+</table>
+
+<br>
 
 ## Notes
 
