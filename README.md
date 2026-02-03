@@ -55,7 +55,7 @@ Output file path to save the results
 | M8 | 0.92 | 0.85 | 5.7 | 66.2 | 18.30 |
 
 **Weights:** `1,1,1,1,1`  
-**Impacts:** `+,+,-,+,+`
+**Impacts:** `+,+,+,-,+`
 
 ---
 
