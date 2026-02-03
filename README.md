@@ -43,7 +43,7 @@ Output file path to save the results
 <table> 
 <tr> 
 <th>Input Dataset</th> 
-<th>TOPSIS Output</th> 
+ 
 </tr> 
 <tr> 
 <td>
@@ -69,7 +69,9 @@ Impacts: `+,+,-,+,+`
 </td>
 
 ---
-
+<tr>
+<th>TOPSIS Output</th>
+</tr>
 ### TOPSIS Output (`result.csv`)
 
 | Fund Name | P1 | P2 | P3 | P4 | P5 | Topsis Score | Rank |
