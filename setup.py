@@ -1,7 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="topsis-dhruv-590",
+    name="Topsis-Dhruv-10234567",
+
     version="0.1",
     packages=find_packages(),
     install_requires=["pandas", "numpy"],
